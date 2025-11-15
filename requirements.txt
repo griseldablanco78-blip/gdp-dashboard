@@ -1,2 +1,15 @@
 streamlit
 pandas
+pandas
+sentence-transformers
+faiss-cpu
+tqdm
+openai
+python-dotenv
+numpy
+streamlit
+gspread
+oauth2client
+Pillow
+matplotlib
+scikit-learn
