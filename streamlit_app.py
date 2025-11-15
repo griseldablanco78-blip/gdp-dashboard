@@ -407,7 +407,7 @@ st.set_page_config(page_title="Tutor IA para Profesores", layout="wide")
 # ---------------------------
 # Config: URL pública del Google Sheet (modificá si necesitás otra)
 # ---------------------------
-# --- Inicio parche para carga segura desde Google Sheets ---
+# --- Inicio parche para carga segura desde Google Sheets ---"
 import re
 import requests
 import streamlit as st
@@ -416,7 +416,7 @@ import pandas as pd
 
 # Poné acá la URL pública del Google Sheet que usás (la de "Compartir" o la de edición)
 # Ejemplo: "https://docs.google.com/spreadsheets/d/1AbCdeFGHIjkLmNoPqRstuVWXYZ/edit#gid=0"
-GOOGLE_SHEET_URL = "# --- Inicio parche para carga segura desde Google Sheets ---
+GOOGLE_SHEET_URL = "# --- Inicio parche para carga segura desde Google Sheets ---"
 import re
 import requests
 import streamlit as st
@@ -425,7 +425,7 @@ import pandas as pd
 
 # Poné acá la URL pública del Google Sheet que usás (la de "Compartir" o la de edición)
 # Ejemplo: "https://docs.google.com/spreadsheets/d/1AbCdeFGHIjkLmNoPqRstuVWXYZ/edit#gid=0"
-GOOGLE_SHEET_URL = "# --- Inicio parche para carga segura desde Google Sheets ---
+GOOGLE_SHEET_URL = "# --- Inicio parche para carga segura desde Google Sheets ---"
 import re
 import requests
 import streamlit as st
